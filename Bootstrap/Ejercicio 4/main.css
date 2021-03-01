@@ -1,0 +1,87 @@
+#primero button{
+    position: relative;
+    left: 2%;
+
+}
+
+#primero h1{
+    position: relative;
+    left: 2%;
+
+}
+
+
+#primero{
+    background-color: rgb(194, 194, 194);
+    position: relative;
+    top: 30px;
+    
+}
+
+#segundo{
+    position: relative;
+    top: 40px;
+    
+}
+
+#color1{
+    background: rgb(194, 194, 194);
+    position: relative;
+    right: 2%;  
+}
+
+ #color2{
+    background: rgb(194, 194, 194);;
+    position: relative;
+    height: 200px;
+}
+
+#color3{
+    background: rgb(194, 194, 194);;
+    position: relative;
+    left: 2%; 
+
+} 
+
+#segundo h1{
+    position: relative;
+    left: -2%;
+
+}
+
+table{
+    text-align: center;
+}
+
+
+
+#texto{
+    position: relative;
+    text-align: center;
+
+}
+
+#art1{
+    position: relative;
+    text-align: left;
+}
+
+#art2{
+    position: relative;
+    text-align: left;
+    
+}
+
+#art3{
+    position: relative;
+    text-align: left;
+    position: relative;
+    left: 5%; 
+}
+
+body{
+    background: gray;
+    position: relative;
+    height: 800px;
+}
+

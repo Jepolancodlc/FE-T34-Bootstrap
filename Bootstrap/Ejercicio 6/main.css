@@ -1,0 +1,18 @@
+#contenedor{
+    position: relative;
+    width: 70%;
+    left: 15%;
+}
+
+#lateral{
+    position: relative;
+    width: 25%;
+    left: 75%;
+    height: 500px;
+    top: 100px;
+    background-color: red;
+}
+#texto{
+    position: relative;
+    left: 25%;
+}

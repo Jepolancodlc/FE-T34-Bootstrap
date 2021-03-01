@@ -1,0 +1,49 @@
+body
+{
+    background-image: url("https://elements-video-cover-images-0.imgix.net/files/240712032/preview.jpg?auto=compress%2Cformat&fit=min&h=394&w=700&s=325a5718495907eff20abbe40becbf8f");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    color: white;
+}
+#loin, #ipsum, h1, .card-footer{
+    text-align: center;
+    color: white;
+}
+
+#loin{
+    font-size: 13px;
+}
+#tit{
+    font-size: 30px;
+
+}
+#ico{
+    width: 50px;
+   
+}
+#sendlogin{
+    color: black;
+    background-color: aquamarine;
+    border-color: aquamarine;
+    width: 100%;
+}
+
+.card-body{
+    background-color: lightgray;
+    color: lightgray;
+
+}
+.card-header{
+  background-color: black;
+    color: lightgray;
+}
+
+#fb, #tw, #gog{
+    background-color: black;
+    opacity: 0.5;
+    border-color: white;
+}
+.iconos{
+    background-color: gainsboro;
+    width: 14px;
+}
